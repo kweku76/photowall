@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/photowall/static/css/main.adff54a0.chunk.css",
-    "main.js": "/photowall/static/js/main.c71dc6df.chunk.js",
-    "main.js.map": "/photowall/static/js/main.c71dc6df.chunk.js.map",
+    "main.css": "/photowall/static/css/main.b2e7d9a2.chunk.css",
+    "main.js": "/photowall/static/js/main.9ed595e7.chunk.js",
+    "main.js.map": "/photowall/static/js/main.9ed595e7.chunk.js.map",
     "runtime-main.js": "/photowall/static/js/runtime-main.c2fd3e8e.js",
     "runtime-main.js.map": "/photowall/static/js/runtime-main.c2fd3e8e.js.map",
     "static/js/2.c8c4693e.chunk.js": "/photowall/static/js/2.c8c4693e.chunk.js",
     "static/js/2.c8c4693e.chunk.js.map": "/photowall/static/js/2.c8c4693e.chunk.js.map",
     "index.html": "/photowall/index.html",
-    "precache-manifest.b31d66886c89f97e5e92f8a9c6772378.js": "/photowall/precache-manifest.b31d66886c89f97e5e92f8a9c6772378.js",
+    "precache-manifest.5af95a0823c23825880c30ef3a4653b8.js": "/photowall/precache-manifest.5af95a0823c23825880c30ef3a4653b8.js",
     "service-worker.js": "/photowall/service-worker.js",
-    "static/css/main.adff54a0.chunk.css.map": "/photowall/static/css/main.adff54a0.chunk.css.map",
+    "static/css/main.b2e7d9a2.chunk.css.map": "/photowall/static/css/main.b2e7d9a2.chunk.css.map",
     "static/js/2.c8c4693e.chunk.js.LICENSE.txt": "/photowall/static/js/2.c8c4693e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2fd3e8e.js",
     "static/js/2.c8c4693e.chunk.js",
-    "static/css/main.adff54a0.chunk.css",
-    "static/js/main.c71dc6df.chunk.js"
+    "static/css/main.b2e7d9a2.chunk.css",
+    "static/js/main.9ed595e7.chunk.js"
   ]
 }
